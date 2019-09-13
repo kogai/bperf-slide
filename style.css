@@ -28,6 +28,19 @@ a {
   color: var(--color-cyan);
 }
 
+p {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin: 10px 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
 /* https://hiroppy.github.io/fusuma/docs/guides/slide-syntax#declaring-section-title */
 .section-title {
 }
